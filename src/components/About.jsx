@@ -1,5 +1,5 @@
 import React from "react";
-import tceLogo from '../assets/tracks/tcelogo.PNG'
+import tceLogo from '../assets/tracks/tcelogo.png'
 const About = () => {
 
 
